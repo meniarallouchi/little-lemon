@@ -8,8 +8,8 @@ a relational database and python based booking system for Little Lemon restauran
 |---|---|
 | `LittleLemonDB.sql` | Full schema: tables, sample data, and the five required stored procedures |
 | `db_connection.py` | Python (mysql-connector-python) script that connects to the database and calls each procedure |
-| `er_diagram.png` | Entity-relationship diagram (add your screenshot here) |
-| `LittleLemon_Analysis.twbx` | Tableau workbook with worksheets and dashboards (add your export here) |
+| `er_diagram.png` | Entity-relationship diagram |
+| `LittleLemonAnalysis.twbx` | Tableau workbook with worksheets and dashboards |
 
 ## Database schema
 
